@@ -1,0 +1,19 @@
+{
+  "weights": {
+    "E": 45,
+    "S": 30,
+    "G": 25
+  },
+  "thresholds": {
+    "co2_tonnes": 500,
+    "energy_kwh": 200000,
+    "accidents_count": 5,
+    "waste_generated": 1000,
+    "water_usage": 50000,
+    "employee_satisfaction": 70,
+    "diversity_score": 60,
+    "safety_incidents": 10,
+    "board_independence": 80,
+    "transparency_score": 75
+  }
+}

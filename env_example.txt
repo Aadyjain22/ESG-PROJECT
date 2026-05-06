@@ -1,0 +1,12 @@
+# AI API Keys for ESG Report Generation
+# Copy this file to .env and add your actual API keys
+
+# OpenAI API Key (for GPT-powered insights)
+OPENAI_API_KEY=your_openai_api_key_here
+
+# Google Gemini API Key (alternative AI provider)
+GEMINI_API_KEY=your_gemini_api_key_here
+
+# Note: You only need one of the above API keys
+# The system will try OpenAI first, then fall back to Gemini
+# If neither is available, it will use built-in fallback insights
